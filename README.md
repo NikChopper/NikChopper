@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikChopper
-- 👀 I’m interested in Google certifications
-- 🌱 I’m currently learning Google ACE
+- 👀 I’m interested in Azure certifications
+- 🌱 I’m currently learning Azure and Nutanix
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Nik
